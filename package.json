@@ -1,0 +1,37 @@
+{
+  "name": "rss-feed",
+  "version": "0.0.1",
+  "description": "This is plugin create rss feed for your strapi site",
+  "strapi": {
+    "name": "rss-feed",
+    "description": "Rss Feed for your site",
+    "kind": "plugin",
+    "displayName": "Rss Feed"
+  },
+  "author": {
+    "name": "Yan Khachko for sotaproject.com",
+    "url": "https://slnk.icu",
+    "email": "a@slnk.icu"
+  },
+  "maintainers": [
+    {
+      "name": "Yan Khachko",
+      "url": "https://slnk.icu",
+      "email": "a@slnk.icu"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "keywords": [
+    "strapi",
+    "strapi-plugin",
+    "plugin",
+    "strapi plugin",
+    "rss",
+    "strapi-rss",
+    "strapi rss"
+  ],
+  "license": "MIT"
+}
