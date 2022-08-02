@@ -1,4 +1,4 @@
-# RSS Fedd for Strapi
+# RSS Feed for Strapi
 
 This plugin will help you create RSS feed from your data in strapi, for this you need to configure the plugin in config/plugins.js
 
