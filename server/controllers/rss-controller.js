@@ -55,7 +55,6 @@ module.exports = {
         console.log(category[models.contentTypes[modelName].category.link]);
         link = link.replace('${category_link}', category[models.contentTypes[modelName].category.link]);
       }
-      content = '<p>' + description + '</p>\n' + content
       rssItemsXml += `
       <item>
         <title><![CDATA[${title}]]></title>
